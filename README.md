@@ -1,5 +1,5 @@
 # Instagram-AutoLiker
-
+Used Web-Scrapping for this Project.
 Using this you can **Like** as many number of posts of any Intagram account you want.
 Just you need to enter your login details and the account who's you want to like posts.
 
